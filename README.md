@@ -38,4 +38,4 @@
 
 ### [**Business solution for real estate company**](https://github.com/brunodifranco/project-house-rocket-insights)
 
-<p align="justify"> In this insights project I used Python and Streamlit to solve a profit maximization problem for House Rocket, a fictitious real estate company, by suggesting good deals. If this feasible solution strategy were applied the total obtained profit would be around US$ 473 million, with an average profit of 45 thousand dollars per property. </p>
+<p align="justify"> In this insights project I used Python and Streamlit to solve a profit maximization problem for House Rocket, a fictitious real estate company, by suggesting whether a property should or should't be bought and resold. If this feasible solution strategy were applied the total obtained profit would be around US$ 473 million, with an average profit of 45 thousand dollars per property. </p>
