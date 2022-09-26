@@ -2,7 +2,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BrunoDiFrancoAlbuquerque/)
 
 ## About Me
-<p align="justify"> I'm 22, born and currently living in Porto Alegre, RS, Brazil. I'm a Data Scientist, with complete projects that are close to real-life company problems. Currently, I study Data Science on a daily basis. I have the professional goal to get a job as a Data Scientist and therefore help in finding solutions for business issues. </p>
+<p align="justify"> I'm 22, born and currently living in Porto Alegre, RS, Brazil. As a Data Scientist I completed projects that are close to real-life company problems. Currently, I study Data Science on a daily basis. I have a career objective of getting a job as a Data Scientist and therefore help in finding solutions for business issues through data. </p>
 
 <p align="justify"> I graduated in Economic Sciences at Universidade Federal do Rio Grande do Sul (UFRGS) in July 2022. Professionally, I worked as an intern in Banrisul, from May 2019 to May 2021. </p>
 
