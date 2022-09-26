@@ -25,11 +25,11 @@ Currenly I study Data Science on a daily basis, developing projects that are clo
 
 ## Data Science Skills
 
- - **Programming languages and Databases**
-    - ##### Python for data analysis.
+ - ### Programming languages and Databases
+    - Python for data analysis.
     - Webscraping with Python.
   
- - **Statistics and Machine Learning**
+ - ### Statistics and Machine Learning
     - Descriptive Statistics.
     - Regression and Classification Algorithms.
     - Algorithms Performance Metrics (RMSE, MAE, MAPE, R2, Accuracy, Confusion Matrix, Precision, Recall and F1-score).
@@ -38,11 +38,11 @@ Currenly I study Data Science on a daily basis, developing projects that are clo
     - Machine Learning packages (Scikit-learn e Scipy).
     - Data Analysis packages (Pandas).
     
- - **Data visualization**
+ - ### Data visualization
     - Matplotlib, Seaborn and Plotly.
     - Power BI.
     
- - **Software Engineering**
+ - ### Software Engineering
     - Git, Github and Virtual Environment.
     - Streamlit and Python API's.
     - Streamlit Cloud and Heroku.
