@@ -13,6 +13,7 @@
  - ### Programming languages and Databases
     - Python for data analysis.
     - Webscraping with Python.
+    - SQL for data extraction.
   
  - ### Statistics and Machine Learning
     - Descriptive Statistics.
@@ -29,11 +30,17 @@
     
  - ### Software Engineering
     - Git, GitHub and Virtual Environment.
-    - Streamlit and Python API's.
-    - Streamlit Cloud and Heroku.
+    - Streamlit, Flask, Python API's and Telegram Bot.
+    - Streamlit Cloud, Render and Heroku.
 
 ## Data Science Projects
 
-### [**Business solution for real estate company**](https://github.com/brunodifranco/project-house-rocket-insights)
+### [**Creating a bot that predicts Rossmann future sales**](https://github.com/brunodifranco/project-rossmann-sales)
+<p align="justify"> In this project I used Python, Flask and Regression Algorithms (Random Forest, XGBoost and Light GBM Regressors) to predict Rossmann sales, a drug store chain, six weeks in advance. The reason is that the CEO needs to determine the best resource allocation for each store renovation. The final solution is a Telegram Bot that returns a sales prediction of any given available store number, with the possibility of being accessed from anywhere. </p>
 
+---
+### [**Business solution for real estate company**](https://github.com/brunodifranco/project-house-rocket-insights)
 <p align="justify"> In this insights project I used Python and Streamlit to solve a profit maximization problem for House Rocket, a fictitious real estate company, by suggesting whether a property should or shouldn't be bought and resold. If this feasible solution strategy were applied the total obtained profit would be around US$ 473 million, with an average profit of 45 thousand dollars per property. </p>
+
+
+
