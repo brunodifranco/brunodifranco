@@ -1,5 +1,7 @@
 # Bruno Di Franco Albuquerque
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BrunoDiFrancoAlbuquerque/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BrunoDiFrancoAlbuquerque/)
+
+- [**DATA SCIENCE PORTFOLIO**](https://brunodifranco.github.io/data-science-portfolio/)
 
 ## About Me
 <p align="justify"> I'm 22, born and currently living in Porto Alegre, RS, Brazil. As a Data Scientist I completed projects that are close to real-life company problems. Currently, I study Data Science on a daily basis. I have a career objective of getting a job as a Data Scientist and therefore help in finding solutions for business issues through data. </p>
@@ -41,6 +43,3 @@
 ---
 ### [**Business solution for real estate company**](https://github.com/brunodifranco/project-house-rocket-insights)
 <p align="justify"> In this insights project I used Python and Streamlit to solve a profit maximization problem for House Rocket, a fictitious real estate company, by suggesting whether a property should or shouldn't be bought and resold. If this feasible solution strategy were applied the total obtained profit would be around US$ 473 million, with an average profit of 45 thousand dollars per property. </p>
-
-
-
