@@ -36,7 +36,7 @@
 ## Data Science Projects
 
 ### [**Creating a bot that predicts Rossmann future sales**](https://github.com/brunodifranco/project-rossmann-sales)
-<p align="justify"> In this project I used Python, Flask and Regression Algorithms (Random Forest, XGBoost and Light GBM Regressors) to predict Rossmann sales, a drug store chain, six weeks in advance. The reason is that the CEO needs to determine the best resource allocation for each store renovation. The final solution is a Telegram Bot that returns a sales prediction of any given available store number, with the possibility of being accessed from anywhere. </p>
+<p align="justify"> In this project I used Python, Flask and Regression Algorithms (Random Forest, XGBoost and Light GBM Regressors) to predict Rossmann sales, a drug store chain, six weeks in advance. Reason being Rossmann CEO needs to determine the best resource allocation for each store renovation. The final solution is a Telegram Bot that returns a sales prediction of any given available store number, with the possibility of being accessed from anywhere. </p>
 
 ---
 ### [**Business solution for real estate company**](https://github.com/brunodifranco/project-house-rocket-insights)
