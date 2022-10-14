@@ -10,7 +10,7 @@
 
 <p align="justify"> I had my first contact with Data Science during my second year in college, when I took the Econometrics course in August 2019. In mid-2020, I learned Python by myself, and then I took the <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZWQ3NK8U7LY5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof"> “IBM Data Science” </a> course on Coursera. Most recently, from January to May 2022, I once again used Data Science tools and knowledge in my final undergraduate paper, <a href="https://lume.ufrgs.br/handle/10183/238972">“Political News and Future Markets Returns”</a>. </p>
 
-<p align="justify"> At this point in my career, I feel confident to work as a Data Scientist, so that I can create value by using my knowledge in Python, Statistics, ML, Storytelling as well as other tools, in order to build data solutions that can solve companies' problems. </p>
+<p align="justify"> At this point in my career I feel confident to work as a Data Scientist, so that I can create value by using my knowledge in Python, Statistics, ML, Storytelling as well as other tools, in order to build data solutions that can solve companies' problems. </p>
 
 ## Data Science Skills
 
