@@ -18,12 +18,13 @@
     - Python for data analysis.
     - Webscraping with Python.
     - SQL for data extraction.
+    - PostgreSQL Database.
   
  - ### Statistics and Machine Learning
     - Descriptive Statistics.
     - Time Series Analysis (ARIMA and GARCH).
-    - Regression and Classification Algorithms.
-    - Algorithms Performance Metrics (RMSE, MAE, MAPE, R2, Accuracy, Confusion Matrix, Precision, Recall and F1-score).
+    - Regression, Classification and Learning to Rank Algorithms.
+    - Algorithms Performance Metrics (RMSE, MAE, MAPE, R2, Accuracy, Confusion Matrix, Precision, Recall and F1-score, Precision and Recall at K, Cumulative Gains and Lyft Curves).
     - Techniques for Feature Selection, Dimensionality Reduction and Hyperparameter Optimization.
     - Validation Methods.
     - Machine Learning packages (Scikit-learn e Scipy).
@@ -34,15 +35,18 @@
     - Power BI.
     
  - ### Software Engineering
-    - Git, GitHub and Virtual Environment.
+    - Git, GitHub, GitLab and Virtual Environment.
     - Streamlit, Flask, Python API's and Telegram Bot.
     - Streamlit Cloud, Render and Heroku.
 
 ## Data Science Projects
+### [**Creating a customer ranking system for an insurance company**](https://github.com/brunodifranco/project-insuricare-ranking)
+<p align="justify"> In this Learning to Rank project I used Python, Flask and Classification Algorithms to create a client ranking system for Insuricare, a fictitious insurance company that is willing to sell a new vehicle insurance to new clients. Insuricare already had a model that randomly selected customers to call, however, by using Data Science a full list of customers sorted by propensity score was provided, and for future clients a spreadsheet is available, returning the sorted propensity score for each requested client. Financially, with a very reasonable annual premium this solution could bring Insuricare up to US$ 25 million annually, which is around 200% better than Insuricare's original model.  </p>
 
+---
 ### [**Creating a bot that predicts Rossmann future sales**](https://github.com/brunodifranco/project-rossmann-sales)
 <p align="justify"> In this project I used Python, Flask and Regression Algorithms (Random Forest, XGBoost and Light GBM Regressors) to predict Rossmann sales, a drug store chain, six weeks in advance. Reason being Rossmann CEO needs to determine the best resource allocation for each store renovation. The final solution is a Telegram Bot that returns a sales prediction of any given available store number, with the possibility of being accessed from anywhere. </p>
 
 ---
-### [**Business solution for real estate company**](https://github.com/brunodifranco/project-house-rocket-insights)
+### [**Business solution for a real estate company**](https://github.com/brunodifranco/project-house-rocket-insights)
 <p align="justify"> In this insights project I used Python and Streamlit to solve a profit maximization problem for House Rocket, a fictitious real estate company, by suggesting whether a property should or shouldn't be bought and resold. If this feasible solution strategy were applied the total obtained profit would be around US$ 473 million, with an average profit of 45 thousand dollars per property. </p>
