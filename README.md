@@ -9,7 +9,7 @@
 
 <p align="justify"> I graduated in Economic Sciences at Universidade Federal do Rio Grande do Sul (UFRGS) in July 2022. Professionally, I worked as an intern in Banrisul, from May 2019 to May 2021. </p>
 
-<p align="justify"> At this point in my career I feel confident to work as a Data Scientist, so that I can create value by using my knowledge in Python, Statistics, Machine Learning, Storytelling as well as other tools, in order to build data solutions that can solve companies' problems. </p>
+<p align="justify"> At this point in my career, I feel confident to work as a Data Scientist, so that I can create value by using my knowledge in Python, Statistics, Machine Learning, Storytelling as well as other tools, in order to build data solutions that can solve companies' problems. </p>
 
 ## Data Science Skills
 
