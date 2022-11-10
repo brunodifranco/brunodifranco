@@ -13,7 +13,7 @@
 
 ## Data Science Skills
 
- - ### Programming languages and Databases
+ - ### Programming Languages and Databases
     - Python for data analysis.
     - Webscraping with Python.
     - SQL for data extraction.
@@ -29,7 +29,7 @@
     - Machine Learning packages (Scikit-learn e Scipy).
     - Data Analysis packages (Pandas).
     
- - ### Data visualization
+ - ### Data Visualization
     - Matplotlib, Seaborn and Plotly.
     - Power BI.
     
