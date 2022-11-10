@@ -22,8 +22,8 @@
  - ### Statistics and Machine Learning
     - Descriptive Statistics.
     - Time Series Analysis (ARIMA and GARCH).
-    - Regression, Classification and Learning to Rank Algorithms.
-    - Algorithms Performance Metrics (RMSE, MAE, MAPE, R2, Accuracy, Confusion Matrix, Precision, Recall and F1-score, Precision and Recall at K, Cumulative Gains and Lyft Curves).
+    - Regression, Classification, Clustering and Learning to Rank Algorithms.
+    - Algorithms Performance Metrics.
     - Techniques for Feature Selection, Dimensionality Reduction and Hyperparameter Optimization.
     - Validation Methods.
     - Machine Learning packages (Scikit-learn e Scipy).
