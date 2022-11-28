@@ -24,11 +24,11 @@
     - Time Series Analysis (ARIMA and GARCH).
     - Regression, Classification, Clustering and Learning to Rank Algorithms.
     - Algorithms Performance Metrics.
-    - Techniques for Feature Selection, Dimensionality Reduction and Hyperparameter Optimization.
-    - Validation Methods.
+    - Techniques for Feature Selection, Validation and Hyperparameter Optimization
+    - Dimensionality Reduction with PCA, t-SNE and UMAP.
     - Machine Learning packages (Scikit-learn e Scipy).
     - Data Analysis packages (Pandas).
-    
+
  - ### Data Visualization
     - Matplotlib, Seaborn and Plotly.
     - Power BI, Looker Studio and Metabase.
