@@ -17,7 +17,7 @@
     - Python for data analysis.
     - Webscraping with Python.
     - SQL for data extraction.
-    - PostgreSQL Database.
+    - PostgreSQL and SQLite Databases.
   
  - ### Statistics and Machine Learning
     - Descriptive Statistics.
