@@ -36,9 +36,13 @@
  - ### Software Engineering
     - Git, GitHub, GitLab and Virtual Environment.
     - Streamlit, Flask, Python API's and Telegram Bot.
-    - Streamlit Cloud, Render, Heroku and AWS.
+    - Streamlit Cloud, Render, Heroku, Neon.tech and AWS.
 
 ## Data Science Projects
+### [**ETL Building for an E-commerce Jeans Company**](https://github.com/brunodifranco/project-star-jeans-data-engineering)
+<p align="justify"> In this data engineering project I used Python, Web Scraping and PostgresSQL to create an ETL process for Star Jeans, a fictitious company. Star Jeans' owners have just recently started the company, and for now, their plan is to sell male jeans in the USA through an E-commerce. However, this market already has strong competitors, such as H&M for instance. In addition to that, the owners aren't familiar with this segment in particular. Therefore, in order to better understand how this market works they hired a Data Science/Engineering, to gather information regarding H&M. The built solution is an ETL that extracts data from H&M website, cleans it, and saves it to a PostgreSQL database. Then, it adds and displays the database with filters in a Streamlit App, where it can be accessed from anywhere by Star Jeans' owners. </p>
+
+---
 ### [**Customer Loyalty Program for E-commerce**](https://github.com/brunodifranco/project-outleto-clustering)
 <p align="justify"> In this project I used Python, Power BI and Clustering Algorithms to create a customer loyalty program for Outleto, a fictitious outlet company that sells its products through an E-commerce platform. Outleto's Marketing Team wishes to launch a customer loyalty program, dividing the 5,702 customers in clusters, on which the best customers will be placed in a cluster named Insiders. To achieve this goal, the Data Science Team was requested to provide a business report regarding the clusters, as well as a list of customers that will participate in Insiders. With that report the Marketing Team will promote actions to each cluster, in order to increase revenue. This project's Data Science Product is the final business report built in Power BI, by using Render Cloud and Google Drive. </p>
 
