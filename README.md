@@ -31,12 +31,12 @@
 
  - ### Data Visualization
     - Matplotlib, Seaborn and Plotly.
-    - Power BI, Looker Studio and Metabase.
+    - Power BI, Streamlit, Looker Studio and Metabase.
     
  - ### Software Engineering
     - Git, GitHub, GitLab and Virtual Environment.
-    - Streamlit, Flask, Python API's and Telegram Bot.
-    - Streamlit Cloud, Render, Heroku, Neon.tech and AWS.
+    - Flask, Python API's and Telegram Bot.
+    - Render Cloud, Heroku, Neon.tech and AWS.
 
 ## Data Science Projects
 ### [**Customer Loyalty Program for E-commerce**](https://github.com/brunodifranco/project-outleto-clustering)
