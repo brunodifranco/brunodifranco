@@ -39,6 +39,10 @@
     - Render Cloud, Heroku, Neon.tech and AWS.
 
 ## Data Science Projects
+### [**Predicting Next Booking Destinations for Airbnb Users**](https://github.com/brunodifranco/project-airbnb-classification)
+<p align="justify"> In this project I used Python, Flask, Streamlit and Classification Algorithms to make predictions of the five most likely countries for an Airbnb USA user to make their next booking. The company provided data from over 200 thousand users and required predictions for another 61 thousand users, on which there were 12 possible destinations outcomes. The final product is a Streamlit App that displays a table of these 61 thousand users with their respective predictions, as well as graphical analysis of the predictions by age, gender and overall analysis. In addition to that, a Flask App was built for when new data comes in, as we can get new predictions with a click of a button, so it can be later retrieved by the Streamlit App, because both Streamlit and Flask applications are connected by the same PostgreSQL Database. </p>
+
+---
 ### [**Customer Loyalty Program for E-commerce**](https://github.com/brunodifranco/project-outleto-clustering)
 <p align="justify"> In this project I used Python, Power BI and Clustering Algorithms to create a customer loyalty program for Outleto, a fictitious outlet company that sells its products through an E-commerce platform. Outleto's Marketing Team wishes to launch a customer loyalty program, dividing the 5,702 customers in clusters, on which the best customers will be placed in a cluster named Insiders. To achieve this goal, the Data Science Team was requested to provide a business report regarding the clusters, as well as a list of customers that will participate in Insiders. With that report the Marketing Team will promote actions to each cluster, in order to increase revenue. This project's Data Science Product is the final business report built in Power BI, by using Render Cloud and Google Drive. </p>
 
