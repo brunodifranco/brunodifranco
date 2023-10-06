@@ -5,7 +5,7 @@
 - [**Data Science Portfolio**](https://brunodifranco.github.io/data-science-portfolio/)
 
 ## About Me
-<p align="justify"> I graduated in Economics from Universidade Federal do Rio Grande do Sul (UFRGS) in June 2022, and I am currently seeking new opportunities in the field of Data. Most recently, I worked as a Data Scientist at a data consulting company. In this role, I was involved in Data Science projects for several companies, performing tasks ranging from data cleaning and exploratory analysis to the implementation of Machine Learning models. These efforts aimed to deliver high- quality results in the projects. I also have some projects, which are available <a href="https://brunodifranco.github.io/data-science-portfolio/"> here</a>, as well as in the "Data Projects" section in this README. </p>
+<p align="justify"> I graduated in Economics from Universidade Federal do Rio Grande do Sul (UFRGS) in June 2022, and I am currently seeking new opportunities in the field of Data. Most recently, I worked as a Data Scientist at a data consulting company. In this role, I was involved in Data Science projects for several companies, performing tasks ranging from data cleaning and exploratory analysis to the implementation of Machine Learning models. These efforts aimed to deliver high- quality results in the projects. I also have some projects, which are available in the "Data Projects" section in this README, as well as in <a href="https://brunodifranco.github.io/data-science-portfolio/"> here</a>, with the full explanation. </p>
 
 ## Data Projects
 
