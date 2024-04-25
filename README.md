@@ -11,7 +11,7 @@ Most recently, I worked at Dadosfera as a Data Scientist, performing tasks such 
 
 My first job in the field was at DSB, also as a Data Scientist. In this role, I was involved in Data Science projects for other companies, performing tasks ranging from data cleaning and exploratory analysis to the implementation of Machine Learning models. This also involved assessing and evaluating the performance of these models for each specific business problem. </p>
 
-## Data Projects
+## Personal Data Projects
 
 ### Data Science Projects
 
