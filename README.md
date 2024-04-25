@@ -5,7 +5,11 @@
 - [**Data Science Portfolio**](https://brunodifranco.github.io/data-science-portfolio/)
 
 ## About Me
-<p align="justify"> I graduated in Economics from Universidade Federal do Rio Grande do Sul (UFRGS) in June 2022, and I am currently seeking new opportunities in the field of Data. Most recently, I worked as a Data Scientist at a data consulting company. In this role, I was involved in Data Science projects for several companies, performing tasks ranging from data cleaning and exploratory analysis to the implementation of Machine Learning models. These efforts aimed to deliver high- quality results in the projects. I also have some projects, which are available in the "Data Projects" section in this README, as well as in <a href="https://brunodifranco.github.io/data-science-portfolio/"> here</a>, with the full explanation. </p>
+<p align="justify"> I'm a Data Scientist with an Economics degree, and currently I'm getting my Masters in Computer Science, specializing in the "Data Science and Software Engineering" research line. I currently work at Paipe, an IT company that also develops Data Science and Machine Learning applications.
+
+Most recently, I worked at Dadosfera as a Data Scientist, performing tasks such as data extraction using SQL in the Snowflake environment, application of web scraping techniques for data collection, data manipulation using Python, creation and maintenance of pipelines using Airflow and AWS tools, feature engineering using Big Data tools such as PySpark and Snowpark, as well as using LLM's for feature extraction. Therefore, I also did a lot of Data Engineering.
+
+My first job in the field was at DSB, also as a Data Scientist. In this role, I was involved in Data Science projects for other companies, performing tasks ranging from data cleaning and exploratory analysis to the implementation of Machine Learning models. This also involved assessing and evaluating the performance of these models for each specific business problem. </p>
 
 ## Data Projects
 
